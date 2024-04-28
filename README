@@ -1,0 +1,13 @@
+for Q1, run 1.py.
+the program will prompt for value of n and m, and image to compress.
+enter 1 to compress barbara image and enter 2 to compress cat image.
+the program will then compress the selected image in RGB and YCbCr color spaces.
+
+
+for Q2, run 2.py.
+the program will prompt for which filter to use.
+1 is for filter 1, 2 for filter 2, and 3 for filter 3.
+the program will then filter the original audio using the selected filter.
+
+
+for both programs, delete all image shown by the program so that the program can continue.
